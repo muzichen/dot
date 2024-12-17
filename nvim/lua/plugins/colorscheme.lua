@@ -4,11 +4,9 @@ return {
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "cyberdream",
-      priority = 1000,
-      lazy = false,
       transparent = true,
-      italic_comments = true,
+      lazy = false,
+      colorscheme = "cyberdream",
     },
-  },
+  }
 }

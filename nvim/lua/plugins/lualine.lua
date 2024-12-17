@@ -2,7 +2,7 @@ return {
   {
     "nvim-lualine/lualine.nvim",
     opts = function()
-      local theme = require("lualine.themes.molokai")
+      local theme = require("lualine.themes.tokyonight")
       return {
         options = {
           theme = theme,
