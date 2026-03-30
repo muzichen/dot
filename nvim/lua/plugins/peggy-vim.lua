@@ -1,6 +1,0 @@
-return {
-  {
-    "TheGrandmother/peggy-vim",
-  }
-}
-
